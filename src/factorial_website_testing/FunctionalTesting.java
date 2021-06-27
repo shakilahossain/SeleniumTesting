@@ -10,10 +10,10 @@ public class FunctionalTesting {
 
 	public static void main (String [] args) throws InterruptedException {
 
-		// Chrome web-driver path
+		//Chrome web-driver path
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\shaki\\IdeaProjects\\SeleniumTesting\\webbrowser\\chromedriver.exe");
 
-		// Web URL
+		//Web URL
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://qainterview.pythonanywhere.com/");
 		driver.manage().window().maximize();
