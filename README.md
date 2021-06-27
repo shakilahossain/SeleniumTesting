@@ -15,7 +15,7 @@ The manual bug report can be found in the following excel file: `FactorialWebsit
 
 
 ## Test Automation:
-I decided to automate UI and Functional error tests since these two types of bugs/errors arise in a software development process in most cases.
+I decided to automate UI and Functional errors tests since these two types of bugs/errors arise in a software development process in most cases.
 
 ### UI Test Automation: 
 The UI testing automation script can be found in here: `src/factorial_website_testing/UITesting.java`
