@@ -1,4 +1,4 @@
-package web.selenium.factorial_website;
+package factorial_website_testing;
 
 import java.util.stream.LongStream;
 

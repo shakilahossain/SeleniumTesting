@@ -1,4 +1,4 @@
-package web.selenium.factorial_website;
+package factorial_website_testing;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
