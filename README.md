@@ -14,8 +14,7 @@ Website URL: https://qainterview.pythonanywhere.com/
 The manual bug report can be found in the following excel file: `FactorialWebsiteTesting_Bugs_Report.xlsx`.
 
 
-## Test Automation:
-I decided to automate UI and Functional tests in the given factorial website because this project has to pass these two checkings before going live.
+## Test Automations:
 
 ### UI Test Automation: 
 The UI testing automation script can be found in here: `src/factorial_website_testing/UITesting.java`
